@@ -31,6 +31,15 @@ Browser:
 
 ![Browser Article List](docs/browser_list.png "Browser Article List")
 
+![Browser Article View](docs/browser_article.png "Browser Article View")
+
+
+Android:
+
+![Android Article List](docs/android_list.png "Android Article List")
+
+![Android Article View](docs/android_article.png "Android Article View")
+
 
 
 ## Roadmap:
