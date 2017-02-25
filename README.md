@@ -25,5 +25,15 @@ ionic run android
 
 With iOS should be the almost the same, but i don't have iOS device around currently.
 
+## ScreenShots
+
+Browser:
+
+![Browser Article List](docs/browser_list.png "Browser Article List")
+
+
+
 ## Roadmap:
 * Make it possible to read previously downloaded articles in offline mode
+
+
