@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>{{selectedItem.title}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-card *ngIf="selectedItem">
+    <ion-card-header>
+    {{selectedItem.title}}
+  </ion-card-header>
+
+    <h3>{{ selectedItem.author }}</h3>
+    <p>{{ selectedItem.pubDate }}</p>
+    <p [innerHTML]="selectedItem.content"></p>
+  </ion-card>
+</ion-content>
