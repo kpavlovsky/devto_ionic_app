@@ -6,7 +6,7 @@
 npm install -g ionic cordova
 git clone git@github.com:kpavlovsky/devto_ionic_app.git
 cd devto_ionic_app
-ionic server
+ionic serve
 ```
 
 This will compile and run app in your default browser!
